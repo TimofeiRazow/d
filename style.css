@@ -1,0 +1,9 @@
+
+body{
+    background-image: url('static/fon.jpeg');
+    filter: brightness(50%);
+    opacity: 10;
+}
+.container{
+    text-align: center;
+}
